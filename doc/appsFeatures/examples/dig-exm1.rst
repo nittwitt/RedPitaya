@@ -140,7 +140,7 @@ Code - Scilab
     clc
 
     // Load SOCKET Toolbox. Steps 7&8
-    exec(SCI+'contribsocket_toolbox_2.0.1loader.sce'); 
+    exec(SCI+'/contrib/socket_toolbox_2.0.2/loader.sce'); 
     SOCKET_init();
 
     IP= '192.168.128.1';
