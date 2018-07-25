@@ -75,7 +75,7 @@ After cloning the Git repository and changing into the directory do:
    cd builddir
    ninja
 
-The server can be installed using the nect commands:
+The server can be installed using the next commands:
 
 .. code-block:: shell-session
 
